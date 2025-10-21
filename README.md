@@ -28,11 +28,7 @@ I’m passionate about technology, problem-solving, and continuous learning.
 
 <p align="left">
 <a href="https://www.github.com/AhmedNasserHK" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</picture>
 </a>
 <a href="https://www.gitlab.com/AhmedNasserHK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /></a>
 <a href="https://www.x.com/hk4tech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /></a>
@@ -50,24 +46,24 @@ I’m passionate about technology, problem-solving, and continuous learning.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AhmedNasserHK"><img src="https://github-readme-stats.vercel.app/api?username=AhmedNasserHK&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="AhmedNasserHK's GitHub stats" /></a>
+<a href="http://www.github.com/AhmedNasserHK"><img style="border-radius:15px;" src="https://github-readme-stats.vercel.app/api?username=AhmedNasserHK&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="AhmedNasserHK's GitHub stats" /></a>
 
-<a href="http://www.github.com/AhmedNasserHK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNasserHK&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/AhmedNasserHK"><img style="border-radius:15px;" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNasserHK&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AhmedNasserHK"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasserHK&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AhmedNasserHK"><img style="border-radius:15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasserHK&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-<a href="https://github.com/AhmedNasserHK/ZynixOS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasserHK&repo=ZynixOS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasserHK&repo=Gameloop-Portable-2025&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/AhmedNasserHK/ZynixOS" align="left"><img style="border-radius:15px;" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasserHK&repo=ZynixOS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025" align="right"><img style="border-radius:15px;" align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasserHK&repo=Gameloop-Portable-2025&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center">
-<a href="https://github.com/AhmedNasserHK/Custom-Screen-Resolution-Pro" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasserHK&repo=Custom-Screen-Resolution-Pro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/AhmedNasserHK/HK4TECH-Ping-Monitor-Pro-Tool" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasserHK&repo=HK4TECH-Ping-Monitor-Pro-Tool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/AhmedNasserHK/Custom-Screen-Resolution-Pro" align="left"><img style="border-radius:15px;" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasserHK&repo=Custom-Screen-Resolution-Pro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/AhmedNasserHK/HK4TECH-Ping-Monitor-Pro-Tool" align="right"><img style="border-radius:15px;" align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasserHK&repo=HK4TECH-Ping-Monitor-Pro-Tool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
